@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVM Example</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="error_email_user_empty">Please enter an Email Address or Username.</string>
+    <string name="error_email_address">Please Enter a Valid Email Address.</string>
+    <string name="error_enter_password">Please Enter Password.</string>
+    <string name="error_password_spaces">Password cannot be spaces.</string>
+    <string name="error_password_length">Password of should be atleast 6 characters.</string>
+    <string name="loading">Loading...</string>
+</resources>
